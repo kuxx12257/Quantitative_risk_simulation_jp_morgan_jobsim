@@ -1,6 +1,6 @@
 # Quantitative_risk_simulation
 Credit Risk Modeling &amp; Quantization – ML models for loan/mortgage PD prediction, FICO score bucketing via MSE &amp; log‑likelihood, ensemble methods, and expected loss estimation. End‑to‑end framework for risk analytics and capital provisioning.
-# Credit Risk Modeling & Quantization 🚀
+# Credit Risk Modeling & Quantization 
 
 This repository contains a complete simulation project focused on **credit risk modeling, expected loss estimation, and FICO score quantization**. It integrates classical machine learning, deep learning, and dynamic programming to provide a robust framework for retail loan and mortgage risk management.
 ##  Project Overview
